@@ -249,5 +249,6 @@ What is role of math models in BI ?
 Can you tell me about ethics in data mining ?
 
 Define decision support system ?
+A Decision support system is a computerized software based ystem, which is interactive and help in decision-making process. The decision making process is based on information generated from different information systems mainly involved in organization business processes
 
 How data mining is used in retail industry ?
